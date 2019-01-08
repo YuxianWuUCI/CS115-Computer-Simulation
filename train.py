@@ -4,7 +4,7 @@ train simulation example
 
 by Yuxiang Wu
 Student ID: 996018
-Date: 11/03/217
+Date: 11/03/2017
 
 Scenario:
     There is a train unloading dock. Trains arrive at the station as a Poisson process on average once every 10 hours. Each train takes between 3.5 and 4.5
